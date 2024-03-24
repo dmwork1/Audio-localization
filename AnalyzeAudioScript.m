@@ -1,6 +1,5 @@
 %% AnalyzeAudioScript.m
 % By Dariusz Mrugala
-% Last updated 10/23/22
 % This script is designed to analyze WAV (or other uncompressed audio) for
 % microphone positioning. The user selects two or more audio files to
 % analyze. These audiofiles are recorded simultaneously and contain an
